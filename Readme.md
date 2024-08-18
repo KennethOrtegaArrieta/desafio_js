@@ -26,3 +26,7 @@ Debe pedir al usuario responder 3 preguntas:
 (- ¿Cuál es tu nombre?
 - ¿Cuántos años tienes?
 - ¿Qué lenguaje de programación estás estudiando?)
+  
+**Una vista de como realice este desafío
+<img width="946" alt="image" src="https://github.com/user-attachments/assets/fc5f0c41-a235-4d73-8b69-c9f72c2cfd86">
+** Experimente un poco con el aspecto visual
